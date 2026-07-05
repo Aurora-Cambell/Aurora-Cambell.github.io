@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Works | Aurora-Cambell</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <nav class="nav">
+        <div class="logo">Aurora-Cambell</div>
+        <div class="nav-link">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="works.html">Works</a>
+            <a href="contact.html">Contact</a>
+        </div>
+    </nav>
+    <section class="page-wrap">
+        <h2>My Portfolio</h2>
+        <div class="work-grid">
+            <div class="work-item">
+                <img src="./img/work1.jpg" alt="Work 1">
+                <h4>Work Name 1</h4>
+                <p>Brief introduction of this work</p>
+            </div>
+            <div class="work-item">
+                <img src="./img/work2.jpg" alt="Work 2">
+                <h4>Work Name 2</h4>
+                <p>Brief introduction of this work</p>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

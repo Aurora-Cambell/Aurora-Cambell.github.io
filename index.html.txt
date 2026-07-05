@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aurora-Cambell | Portfolio</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <nav class="nav">
+        <div class="logo">Aurora-Cambell</div>
+        <div class="nav-link">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="works.html">Works</a>
+            <a href="contact.html">Contact</a>
+        </div>
+    </nav>
+    <main class="hero">
+        <img src="./img/avatar.jpg" alt="Avatar" class="avatar">
+        <h1>Hi, I'm Aurora Cambell</h1>
+        <p class="desc">Personal creator & portfolio showcase site</p>
+        <a href="works.html" class="btn">View My Works</a>
+    </main>
+</body>
+</html>

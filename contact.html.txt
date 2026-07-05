@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Aurora-Cambell</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <nav class="nav">
+        <div class="logo">Aurora-Cambell</div>
+        <div class="nav-link">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="works.html">Works</a>
+            <a href="contact.html">Contact</a>
+        </div>
+    </nav>
+    <section class="page-wrap">
+        <h2>Contact Me</h2>
+        <p>Email: cywlaurora@gmail.com</p>
+        <p>Other social links can be added here</p>
+    </section>
+</body>
+</html>
